@@ -1,6 +1,6 @@
 # React Boilerplate
 
-This repository serves as a boilerplate for React projects, providing a clean and scalable starting point using modern tools and best practices. It is designed with Vite for fast development, Tailwind CSS for styling, and React Router for client-side routing.
+This repository serves as a boilerplate for React projects, providing a clean and scalable starting point using modern tools and best practices. It is designed with Vite for fast development, Tailwind CSS for styling, React Router for client-side routing, and Radix UI for accessible, headless component primitives.
 
 ## Features
 
@@ -8,6 +8,7 @@ This repository serves as a boilerplate for React projects, providing a clean an
 - **Tailwind CSS:** A utility-first CSS framework for rapid UI development.
 - **React Router:** A robust solution for handling client-side routing.
 - **ESLint & Prettier:** Tools for maintaining ccode quality and consistency.
+- **Radix UI**: A collection of unstyled, accessible UI primitives that allow you to build custom components with full control over styling using Tailwind CSS.
 
 ## Folder Structure
 
@@ -58,6 +59,10 @@ ESLint and Prettier are cofigured to maintain code quality and consistent format
 
 - **ESLint Configuration:** `.eslintrc.js`
 - **Prettier Configuration:** `.prettierrc`
+
+### Radix UI
+
+Radix UI provides headless, accessible components that you can style with Tailwind CSS. This gives you complete control over the appearance while ensuring robust accessibility.
 
 ## Future Enhancements
 
